@@ -2,11 +2,11 @@
 
 # WedFlow
 
-**Një vend i qetë për të gjithë ditën.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/product-hero.svg" width="100%" alt="WedFlow — Wedding planning; conceptual product illustration" />
+<img src="assets/product-hero.svg" width="100%" alt="WedFlow — prezantim vizual i produktit" />
+
+**Një vend i qetë për të gjithë ditën.**
 
 [![Website](https://img.shields.io/badge/wedflow.mk-Official_Website-1476e8?style=for-the-badge)](https://wedflow.mk/)
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://wedflow.mk/)
@@ -71,7 +71,7 @@ Ilustrimi është konceptual, jo pamje aplikacioni. Ndërfaqja, opsionet dhe kus
 | Hollësia | Vlera |
 |---|---|
 | Domeni | [wedflow.mk](https://wedflow.mk/) |
-| Kategoria | Wedding planning |
+| Kategoria | Planifikim dasmash |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Kontakti i portofolit | [contact@processin.mk](mailto:contact@processin.mk) |
@@ -95,5 +95,4 @@ Burimi: [Faqja zyrtare](https://wedflow.mk/).
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·
